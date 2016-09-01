@@ -1,0 +1,10 @@
+c:\users\dglazentsov.lgs\documents\visual studio 2015\Projects\TestConnectionDB\TestConnectionDB\bin\Debug\TestConnectionDB.exe.config
+c:\users\dglazentsov.lgs\documents\visual studio 2015\Projects\TestConnectionDB\TestConnectionDB\bin\Debug\TestConnectionDB.exe
+c:\users\dglazentsov.lgs\documents\visual studio 2015\Projects\TestConnectionDB\TestConnectionDB\bin\Debug\TestConnectionDB.pdb
+c:\users\dglazentsov.lgs\documents\visual studio 2015\Projects\TestConnectionDB\TestConnectionDB\obj\Debug\TestConnectionDB.csprojResolveAssemblyReference.cache
+c:\users\dglazentsov.lgs\documents\visual studio 2015\Projects\TestConnectionDB\TestConnectionDB\obj\Debug\TestConnectionDB.exe
+c:\users\dglazentsov.lgs\documents\visual studio 2015\Projects\TestConnectionDB\TestConnectionDB\obj\Debug\TestConnectionDB.pdb
+C:\Users\dglazentsov.LGS\documents\visual studio 2015\Projects\TestConnectionDB\TestConnectionDB\bin\Debug\Google.GData.Client.DLL
+C:\Users\dglazentsov.LGS\documents\visual studio 2015\Projects\TestConnectionDB\TestConnectionDB\bin\Debug\Google.GData.Extensions.dll
+C:\Users\dglazentsov.LGS\documents\visual studio 2015\Projects\TestConnectionDB\TestConnectionDB\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\dglazentsov.LGS\documents\visual studio 2015\Projects\TestConnectionDB\TestConnectionDB\bin\Debug\Newtonsoft.Json.dll
